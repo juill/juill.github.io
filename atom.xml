@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>juill&#39;s blog</title>
+  
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://juill.github.io/"/>
+  <updated>2018-05-18T10:18:03.015Z</updated>
+  <id>http://juill.github.io/</id>
+  
+  <author>
+    <name>juill</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>个人简历</title>
+    <link href="http://juill.github.io/2018/05/18/%E4%B8%AA%E4%BA%BA%E7%AE%80%E5%8E%86/"/>
+    <id>http://juill.github.io/2018/05/18/个人简历/</id>
+    <published>2018-05-18T03:26:11.000Z</published>
+    <updated>2018-05-18T10:18:03.015Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="蒋宇恒"><a href="#蒋宇恒" class="headerlink" title="蒋宇恒"></a>蒋宇恒</h1><p>求职意向：前端开发</p><p>基本信息：</p><ul><li>学历：本科</li><li>专业：电子信息工程</li><li>毕业学校：长春光华学院</li><li>毕业时间：2015.7</li></ul><p>个人说明：</p><p>毕业从事了Unity3d前端游戏UI开发，一年后选择了转行，目前对前端开发非常感兴趣，所以自学了前端，目前经验不是很足，希望能在工作中学习更多的知识，提升自己，在前端行业里前进。</p><h3 id="个人技能"><a href="#个人技能" class="headerlink" title="个人技能"></a>个人技能</h3><hr><ul><li><p>了解html css JavaScript</p></li><li><p>了解Vue Vuex VueRouter(有小项目)</p></li><li><p>了解scss 前端自动化工具（webpack）</p></li><li><p>团队开发：Git，Svn</p></li></ul><h3 id="项目经验"><a href="#项目经验" class="headerlink" title="项目经验"></a><strong>项目经验</strong></h3><hr><p>Vue音乐播放器（个人项目）</p><p> 【前端】</p><ul><li>Vue：用于构建用户界面的 MVVM 框架。它的核心是响应的数据绑定和系统组件</li><li>vue-router：为单页面应用提供的路由系统，项目上线前使用了 </li><li>Lazy Loading Routes 技术来实现异步加载优化性能</li><li>vuex：Vue 集中状态管理，在多个组件共享某些状态时非常便捷</li><li>vue-lazyload：第三方图片懒加载库，优化页面加载速度</li><li>better-scroll：iscroll 的优化版，使移动端滑动体验更加流畅</li><li>Stylus：css 预编译处理器</li><li>ES6：ECMAScript新一代语法，模块化、解构赋值</li></ul><p>【后端】</p><ul><li>Node.js:利用Express起一个本地测试服务器</li><li>jsonp:服务端通讯。抓取QQ音乐（移动端）数据</li><li>axios：服务器通信。结合Node.js代理后端请求，抓取QQ音乐（PC端）数据</li></ul><p>【自动化构建工具】</p><ul><li>vue-cli:Vue脚手架工具，快速初始化项目代码</li></ul><hr><h1 id="收获"><a href="#收获" class="headerlink" title="收获"></a>收获</h1><ol><li>总结了一套Vue通用组件，可以在其它项目中复用的10+个基础组件、15+个业务组件</li><li>体会到组件化、模块化开发带来的便捷</li><li>学会Vue的各种功能的使用</li></ol><p>项目持续更新中</p><h3 id="项目预览地址：http-juill-cn-vue-music"><a href="#项目预览地址：http-juill-cn-vue-music" class="headerlink" title="项目预览地址：http://juill.cn/vue-music"></a>项目预览地址：<a href="http://juill.cn/vue-music" target="_blank" rel="noopener">http://juill.cn/vue-music</a></h3>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h1 id=&quot;蒋宇恒&quot;&gt;&lt;a href=&quot;#蒋宇恒&quot; class=&quot;headerlink&quot; title=&quot;蒋宇恒&quot;&gt;&lt;/a&gt;蒋宇恒&lt;/h1&gt;&lt;p&gt;求职意向：前端开发&lt;/p&gt;
+&lt;p&gt;基本信息：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;学历：本科&lt;/li&gt;
+&lt;li&gt;专业：电子信息工程&lt;/li&gt;
+
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>你好,Next</title>
+    <link href="http://juill.github.io/2018/04/12/%E4%BD%A0%E5%A5%BD-Hexo/"/>
+    <id>http://juill.github.io/2018/04/12/你好-Hexo/</id>
+    <published>2018-04-12T10:54:28.000Z</published>
+    <updated>2018-05-18T06:57:27.059Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+  </entry>
+  
+</feed>
